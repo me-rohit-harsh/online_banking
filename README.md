@@ -4,22 +4,22 @@ The Online Banking System is a application that allows users to perform banking 
 # ***Features***
 The Online Banking System includes the following features: <br>
 
-“*” User authentication and authorization <br>
-“*” Account management (add, edit, and delete accounts) <br>
-“*” Transfer funds between accounts <br>
-“*” View transaction history <br>
-“*” Search and filter transactions <br>
-“*” Generate reports and export data <br>
+* User authentication and authorization <br>
+* Account management (add, edit, and delete accounts) <br>
+* Transfer funds between accounts <br>
+* View transaction history <br>
+* Search and filter transactions <br>
+* Generate reports and export data <br>
 
 
 # ***Contributing***
 Contributions to the Online Banking System are welcome and encouraged! To contribute, follow these steps: <br>
 
 # Fork this repository
-“*” Create a new branch: git checkout -b feature/your-feature <br>
-“*” Make your changes and commit them: git commit -m 'Add your feature' <br>
-“*” Push to the branch: git push origin feature/your-feature <br>
-“*” Submit a pull request <br>
+1. Create a new branch: git checkout -b feature/your-feature <br>
+2. Make your changes and commit them: git commit -m 'Add your feature' <br>
+3. Push to the branch: git push origin feature/your-feature <br>
+4. Submit a pull request <br>
 
 
 # ***Thank You***
