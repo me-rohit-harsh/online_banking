@@ -16,11 +16,11 @@ The Online Banking System includes the following features: <br>
 # ***Contributing***
 Contributions to the Online Banking System are welcome and encouraged! To contribute, follow these steps: <br>
 
-### Fork this repository
-1. Create a new branch: git checkout -b feature/your-feature <br>
-2. Make your changes and commit them: git commit -m 'Add your feature' <br>
-3. Push to the branch: git push origin feature/your-feature <br>
-4. Submit a pull request <br>
+1. Fork this repository <br>
+2. Create a new branch: git checkout -b feature/your-feature <br>
+3. Make your changes and commit them: git commit -m 'Add your feature' <br>
+4. Push to the branch: git push origin feature/your-feature <br>
+5. Submit a pull request <br>
 
 
 # ***🌟Give Star If you find this helpful and thank you :)🌟***
