@@ -7,7 +7,7 @@ The Online Banking System includes the following features: <br>
 
 * User authentication and authorization: Only registered users can access their accounts and perform banking operations. <br>
 * Register new user: New users can register their account by providing their personal information, such as name, date of birth(DOB) and address.
-* Account management (add, edit, and delete accounts): Users can add, edit, and delete their accounts as needed. <br>
+* Account management (update, edit, and delete accounts): Users can update, edit,  and delete their accounts as needed. <br>
 * Transfer funds between accounts: Users can transfer money between their accounts or to other user accounts. <br>
 * View balance: Users can view their account balance and transaction history. <br>
 * Deposit money: Users can deposit money into their accounts. <br>
