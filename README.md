@@ -1,7 +1,6 @@
-# > ***🌟Online Banking System🌟***
+# ***🌟Online Banking System🌟***
 The Online Banking System is a application that allows users to perform banking operations such as managing their accounts, transferring funds, and viewing their balance and many more.The system is built using Java, Oops, SQL(MySQL,PopSQL) and Java database connectivity(JDBC). <br>
-Markup :  > Blockquote
-          >> Nested Blockquote
+Markup :  - - - -
 # ***Features***
 The Online Banking System includes the following features: <br>
 
