@@ -5,12 +5,13 @@ The Online Banking System is a application that allows users to perform banking 
 # ***Features***
 The Online Banking System includes the following features: <br>
 
-* User authentication and authorization <br>
-* Account management (add, edit, and delete accounts) <br>
-* Transfer funds between accounts <br>
-* View transaction history <br>
-* Search and filter transactions <br>
-* Generate reports and export data <br>
+* User authentication and authorization: Only registered users can access their accounts and perform banking operations. <br>
+* Register new user: New users can register their account by providing their personal information, such as name, date of birth(DOB) and address.
+* Account management (add, edit, and delete accounts): Users can add, edit, and delete their accounts as needed. <br>
+* Transfer funds between accounts: Users can transfer money between their accounts or to other user accounts. <br>
+* View balance: Users can view their account balance and transaction history. <br>
+* Deposit money: Users can deposit money into their accounts. <br>
+* Withdrawal of money: Users can withdraw money from their accounts. <br>
 
 
 # ***Contributing***
